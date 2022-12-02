@@ -18,6 +18,6 @@
     "name": "تام و جری: سرزمین آدم برفی",
     "bio": "جری و تافی یک موش برفی بامزه درست می کنند که به طور غیرمنتظره ای زنده می شود. آنها برای اینکه دوست جدیدشان از گرما ذوب نشود، باید او را به دهکده آدم برفی ببرند و...",
     "tag": "ماجراجویی ",
-    "link": "https://hajifirouz4.asset.aparat.com/aparat-video/2bcf883b9aae1ca3dc47a87d32b50d5848921217-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRkYjRlOGY3M2ZkMWE5NDQzNDljMjA1NjdiNDdhMjIxIiwiZXhwIjoxNjcwMDI1MTQ2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1ClFhb5QpcqF0XLcGI72qk-oKZPkdy4k-IFyeJ0UmBU"
+    "link": "https://www.aparat.com/video/video/embed/videohash/KM4j9/vt/frame"
   }
 ]
