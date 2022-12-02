@@ -1,14 +1,20 @@
 [
   {
     "img": "https://static.namava.ir/Content/Upload/Images/e8006020-0e77-4a49-8dbe-ffa1b3a5c889.jpg?anchor=middlecenter&crop=auto&scale=both&w=300&h=442",
-    "name": "تارزان "
+    "name": "تارزان ",
+    "bio": "پس از اینکه پسربچه ای تنها، والدین خود را بر اثر یک حادثه دلخراش از دست می دهد، یک گوریل مادر، پسربچه را پیدا می کند و تصمیم می گیرد تا او را به عنوان یکی از فرزندانش بزرگ کند، اما...\n",
+    "tag": "ماجراجویی "
   },
   {
-    "img": "https://static.namava.ir/Content/Upload/Images/2ba0b171-d589-453c-8f69-ac12ccb672a2.jpg?anchor=middlecenter&crop=auto&scale=both&w=300&h=442",
-    "name": "نفرت انگیز و شهر نامرئی "
+    "img": "https://static.namava.ir/Content/Upload/Images/e2709c49-d564-4b9a-a6bb-b134b0c4225f.jpg?anchor=middlecenter&crop=auto&scale=both&w=300&h=442",
+    "name": "نفرت انگیز  ",
+    "bio": "دختری نوجوان به نام یی، بر روی بام خانه خود با هیولایی موسوم به مرد برفی مواجه می‌شود. در ادامه، یی تلاش می‌کند که این هیولا را نزد خانواده‌اش بازگرداند. البته او در تلاش برای تحقق این هدف، با موانعی مواجه می‌شود که...",
+    "tag": "ماجراجویی "
   },
   {
     "img": "https://static.namava.ir/Content/Upload/Images/23692d2d-4be2-44d7-9f18-f00620ad1c7f.jpg?anchor=middlecenter&crop=auto&scale=both&w=300&h=442",
-    "name": "تام و جری ، شهر برفی"
+    "name": "تام و جری: سرزمین آدم برفی",
+    "bio": "جری و تافی یک موش برفی بامزه درست می کنند که به طور غیرمنتظره ای زنده می شود. آنها برای اینکه دوست جدیدشان از گرما ذوب نشود، باید او را به دهکده آدم برفی ببرند و...",
+    "tag": "ماجراجویی "
   }
 ]
